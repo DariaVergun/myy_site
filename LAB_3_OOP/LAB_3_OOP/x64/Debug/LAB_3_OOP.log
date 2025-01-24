@@ -1,0 +1,11 @@
+﻿  LAB_3_OOP.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'LAB_3_OOP.cpp')
+  C:\Users\dnepr\source\repos\LAB_3_OOP\glfw-3.4.bin.WIN64\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+C:\Users\dnepr\source\repos\LAB_3_OOP\LAB_3_OOP\LAB_3_OOP.cpp(62,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dnepr\source\repos\LAB_3_OOP\LAB_3_OOP\LAB_3_OOP.cpp(63,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dnepr\source\repos\LAB_3_OOP\LAB_3_OOP\LAB_3_OOP.cpp(64,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dnepr\source\repos\LAB_3_OOP\LAB_3_OOP\LAB_3_OOP.cpp(183,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LAB_3_OOP.vcxproj -> C:\Users\dnepr\source\repos\LAB_3_OOP\x64\Debug\LAB_3_OOP.exe
